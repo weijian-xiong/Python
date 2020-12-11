@@ -1,2 +1,2 @@
-# Python
- Python programs
+# Python Programs
+ A collection of python programs
